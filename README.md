@@ -26,11 +26,9 @@ The project involves several key steps:
 
 10. **Releasing Resources**: Releasing resources used for object detection, such as video stream and output video file, to prevent memory leaks and optimize resource utilization.
 
-11. **Video Output**: Provide a link to the output video demonstrating vehicle detection and tracking, including annotated bounding boxes and labels indicating the type of vehicle detected and their confidence scores.
-
 ## Video Output
 
-<video src="https://drive.google.com/uc?export=download&id=1IocJfV5mJ5lROOj3ZVclb7cBAw_wPzhR" width="640" height="480" controls></video>
+[Click here to view the output video](https://drive.google.com/file/d/1IocJfV5mJ5lROOj3ZVclb7cBAw_wPzhR/view?usp=sharing)
 
 The output video showcases the results of vehicle detection and tracking performed by the Custom Vision model on a one-minute video containing various vehicles such as bicycles, trams, and cars.
 
